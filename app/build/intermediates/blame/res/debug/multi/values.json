@@ -1,23 +1,23 @@
 [
     {
-        "outputFile": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 50,
-                    "endOffset": 101
+                    "endColumn": 53,
+                    "endOffset": 104
                 },
                 "from": {
-                    "file": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 125,
-                        "endColumn": 50,
-                        "endOffset": 171
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
                     }
                 }
             },
@@ -25,18 +25,147 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 106,
-                    "endColumn": 69,
-                    "endOffset": 171
+                    "startOffset": 109,
+                    "endColumn": 46,
+                    "endOffset": 151
                 },
                 "from": {
-                    "file": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 156,
+                    "endColumn": 45,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 48,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 50,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 69,
-                        "endOffset": 120
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 46,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 46,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 156,
+                    "endColumn": 45,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 45,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 48,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 48,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 50,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 50,
+                        "endOffset": 251
                     }
                 }
             }

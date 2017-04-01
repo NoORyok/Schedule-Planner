@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
-        "source": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+        "merged": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     }
 ]

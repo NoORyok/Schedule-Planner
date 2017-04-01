@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, Ex11_CalendarActivity!</string>
-    <string name="app_name">Ex11_Calendar</string>
+    <string name="app_name">Schedule Planner</string>
+    <string name="crud">CRUD_SCHEDULE</string>
+    <string name="group">GROUP_SCHEDULE</string>
+    <string name="main">CALENDAR_SCHEDULE</string>
+    <string name="day">LIST_SCHEDULE</string>
+
 </resources>

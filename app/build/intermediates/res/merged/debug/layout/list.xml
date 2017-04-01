@@ -5,13 +5,13 @@
     android:orientation="vertical" >
     
     <EditText 
-        android:id="@+id/edsearch" 
+        android:id="@+id/editSearch"
         android:layout_width="match_parent" 
         android:layout_height="wrap_content"
         android:hint="그룹명을 입력하시오"/>
     
     <Button 
-        android:id="@+id/btnsearch" 
+        android:id="@+id/btnSearch"
         android:layout_width="match_parent" 
         android:layout_height="wrap_content" 
         android:text="찾기"/>
@@ -24,7 +24,7 @@
         android:textSize="20dp"/>
  
     <ListView 
-        android:id="@+id/listView1" 
+        android:id="@+id/groupList"
         android:layout_width="match_parent" 
         android:layout_height="wrap_content">
     </ListView>

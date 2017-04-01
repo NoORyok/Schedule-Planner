@@ -17,7 +17,7 @@
             android:text="제목" />
 
         <EditText
-            android:id="@+id/edittitle"
+            android:id="@+id/editTitle"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:gravity="center" />
@@ -29,7 +29,7 @@
             android:text="날짜" />
 
         <EditText
-            android:id="@+id/editdate"
+            android:id="@+id/editDate"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
@@ -42,7 +42,7 @@
             android:text="시간" />
 
         <EditText
-            android:id="@+id/edittime"
+            android:id="@+id/editTime"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
@@ -55,7 +55,7 @@
             android:text="메모" />
 
         <EditText
-            android:id="@+id/editmemo"
+            android:id="@+id/editMsg"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:gravity="center" />
@@ -67,7 +67,7 @@
             android:text="그룹명" />
 
         <EditText
-            android:id="@+id/editgp"
+            android:id="@+id/editGroup"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:gravity="center" />
@@ -79,7 +79,7 @@
             android:text="비밀 번호" />
 
         <EditText
-            android:id="@+id/editpw"
+            android:id="@+id/editPw"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:gravity="center" />
@@ -100,35 +100,35 @@
         
     
     <LinearLayout
-        android:id="@+id/btnadd"
+        android:id="@+id/btnInsert"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0"
         android:orientation="vertical" >
         
         <Button
-            android:id="@+id/btnsud"
+            android:id="@+id/btnUpdate"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="수정" />
 
         <Button
-            android:id="@+id/btndel"
+            android:id="@+id/btnDelete"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="삭제" />
         
         <Button
-            android:id="@+id/btnsave"
+            android:id="@+id/btnSave"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="저장" />
 
         <Button
-            android:id="@+id/btncancel"
+            android:id="@+id/btnCancel"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"

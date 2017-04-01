@@ -1,18 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extoday.xml",
-        "source": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\src\\main\\res\\layout\\extoday.xml"
+        "merged": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\src\\main\\res\\layout\\list.xml"
     },
     {
-        "merged": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extoday.xml",
+        "source": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\src\\main\\res\\layout\\extoday.xml"
     },
     {
-        "merged": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
-        "source": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\src\\main\\res\\layout\\list.xml"
+        "merged": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
-        "source": "C:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\src\\main\\res\\layout\\detail.xml"
+        "merged": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\src\\main\\res\\layout\\detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extoday.xml",
+        "source": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\src\\main\\res\\layout\\extoday.xml"
+    },
+    {
+        "merged": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "C:\\Users\\litin\\AndroidStudioProjects\\SchedulePlanner\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "C:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\src\\main\\res\\layout\\detail.xml"
     }
 ]

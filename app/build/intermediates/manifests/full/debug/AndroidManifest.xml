@@ -14,7 +14,7 @@
         android:icon="@drawable/icon"
         android:label="@string/app_name" >
         <activity
-            android:name="ex11_Calendar.org.Ex11_CalendarActivity"
+            android:name="schedulePlanner.org.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,16 +23,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="ex11_Calendar.org.ExToday"
-            android:label="@string/app_name" >
+            android:name="schedulePlanner.org.Daylist"
+            android:label="@string/day" >
         </activity>
         <activity
-            android:name="ex11_Calendar.org.Detail"
-            android:label="@string/app_name" >
+            android:name="schedulePlanner.org.Crud"
+            android:label="@string/crud" >
         </activity>
         <activity
-            android:name="ex11_Calendar.org.List"
-            android:label="@string/app_name" />
+            android:name="schedulePlanner.org.Grouplist"
+            android:label="@string/group" />
     </application>
 
 </manifest>

@@ -1,27 +1,27 @@
 #Internal package file, do not edit.
-#Sat Mar 11 00:17:35 KST 2017
-2.base=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_
-5.file=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\detail.xml
-5.set=ANDROID_RESOURCE
-3.base=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_
-6.file=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Sat Apr 01 20:50:40 KST 2017
+2.base=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.set=DEX
+3.base=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 2.set=ANDROID_RESOURCE
-4.base=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_
-7.file=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\extoday.xml
+4.base=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
 7.set=ANDROID_RESOURCE
 count=8
-0.file=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-5.base=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.file=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.base=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 4.set=ANDROID_RESOURCE
-6.base=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-1.file=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\list.xml
+6.base=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\list.xml
 1.set=ANDROID_RESOURCE
-7.base=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_
-2.file=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
-6.set=DEX
-0.base=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+7.base=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\extoday.xml
 3.set=ANDROID_RESOURCE
-1.base=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=C\:\\Users\\SEONGJAE\\StudioProjects\\Ex11_Calendar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.base=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\detail.xml
 0.set=ANDROID_RESOURCE

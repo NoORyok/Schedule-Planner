@@ -12,7 +12,7 @@
         android:orientation="horizontal" >
 
         <EditText
-            android:id="@+id/edit1"
+            android:id="@+id/editYear"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:hint="년도 입력" />
@@ -23,7 +23,7 @@
             android:hint="년" />
 
         <EditText
-            android:id="@+id/edit2"
+            android:id="@+id/editMon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:hint="월을 입력" />
@@ -34,7 +34,7 @@
             android:hint="월" />
 
         <Button
-            android:id="@+id/bt1"
+            android:id="@+id/btnClick"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:hint="클릭" />
@@ -47,7 +47,7 @@
         android:orientation="vertical" >
 
         <GridView
-            android:id="@+id/grid1"
+            android:id="@+id/calendarView"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
