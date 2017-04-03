@@ -1,4 +1,4 @@
-#Sat Apr 01 20:50:40 KST 2017
-base.0=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Mon Apr 03 19:44:12 KST 2017
+base.0=C\:\\Users\\SEONGJAE\\StudioProjects\\Schedule-Planner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=C\:\\Users\\SEONGJAE\\StudioProjects\\SchedulePlanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=C\:\\Users\\SEONGJAE\\StudioProjects\\Schedule-Planner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

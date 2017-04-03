@@ -22,7 +22,7 @@ import java.util.ArrayList;
 
 public class Grouplist extends Activity {
 
-    private final String SERVER_ADDRESS = "http://192.168.0.25:8080/SCHEDULE_SERVER";
+    private final String SERVER_ADDRESS = "http://192.168.0.7:8080/Schedule-Server";
 
     private EditText editSearch;
     private Button btnSearch;

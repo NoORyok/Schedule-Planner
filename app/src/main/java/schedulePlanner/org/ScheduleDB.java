@@ -20,6 +20,7 @@ public class ScheduleDB extends SQLiteOpenHelper {
 				+ "_TITLE TEXT, " + "_DATE TEXT , " + "_TIME TEXT, " + "_MSG TEXT, " + "_GROUP TEXT, " + "_PW TEXT );");
 
 	}
+
 	// 테이블 재생성
 	@Override
 	public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {

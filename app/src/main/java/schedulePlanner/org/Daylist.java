@@ -20,7 +20,7 @@ public class Daylist extends Activity implements OnItemClickListener,
     private ScheduleDB scheduleDB;                      // DB OPEN 객체
     private SQLiteDatabase sqlDB;                       // DB SQL 객체
 
-    private String strDay1;                             // 날짜 문자열
+    private String strDay;                             // 날짜 문자열
 
     private Cursor cursor;                              // DB 커서
     private SimpleCursorAdapter scheduleAdapter;        // 일정 표시 ADAPTER
@@ -37,16 +37,16 @@ public class Daylist extends Activity implements OnItemClickListener,
         setContentView(R.layout.extoday);
 
         Intent intent = getIntent();
-        strDay1 = intent.getStringExtra("ParamDATE");           // 날짜 값을 받음
+        strDay = intent.getStringExtra("ParamDATE");           // 날짜 값을 받음
 
         textDay = (TextView) findViewById(R.id.textDay);
-        textDay.setText(strDay1);
+        textDay.setText(strDay);
 
         scheduleDB = new ScheduleDB(this);                      // DB OPEN
         sqlDB = scheduleDB.getWritableDatabase();               // DB SQL
 
         // 선택한 날짜의 CULUMN 반환
-        cursor = sqlDB.rawQuery("SELECT * FROM SCHEDULE_TB WHERE _DATE = '" + strDay1 + "'", null);
+        cursor = sqlDB.rawQuery("SELECT * FROM SCHEDULE_TB WHERE _DATE = '" + strDay + "'", null);
 
 
         // 선택한 날짜의 일정들을 표시
@@ -89,7 +89,7 @@ public class Daylist extends Activity implements OnItemClickListener,
             // 일정추가 버튼
             case R.id.btnInsert:
                 Intent intent1 = new Intent(this, Crud.class);
-                intent1.putExtra("ParamDATE", strDay1);             // 날짜 값 전달
+                intent1.putExtra("ParamDATE", strDay);             // 날짜 값 전달
                 startActivityForResult(intent1, 1);
                 break;
 
@@ -115,7 +115,7 @@ public class Daylist extends Activity implements OnItemClickListener,
                     // 해당 날짜의 DB 일정을 호출
                     sqlDB = scheduleDB.getWritableDatabase();
                     cursor = sqlDB.rawQuery("SELECT * FROM SCHEDULE_TB WHERE _DATE = '"
-                            + strDay1 + "'", null);
+                            + strDay + "'", null);
                     scheduleAdapter.changeCursor(cursor);
 
                     scheduleDB.close();

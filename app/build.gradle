@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "Ex11_Calendar.org"
+        applicationId "schedulePlanner.org"
         minSdkVersion 9
         targetSdkVersion 9
     }

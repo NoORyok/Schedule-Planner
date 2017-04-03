@@ -113,10 +113,10 @@ public class MainActivity extends Activity implements OnClickListener,
         } else {
 
             //  호출한 액티비티에 날짜 값을 전달
-            Intent intentMain = new Intent(this, Daylist.class);
-            intentMain.putExtra("ParamDATE", editYear.getText().toString() + "/"
+            Intent intent = new Intent(this, Daylist.class);
+            intent.putExtra("ParamDATE", editYear.getText().toString() + "/"
                     + editMon.getText().toString() + "/" + monItems.get(arg2));
-            startActivity(intentMain);
+            startActivity(intent);
         }
     }
 }

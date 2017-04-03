@@ -23,14 +23,14 @@ public class Crud extends Activity implements OnClickListener {
 
     // 외부 주소(포트포워딩)  "http://27.124.225.117/SCHEDULE_SERVER";
     // 내부 주소(포트:8080)  "http://192.168.0.xx:8080/SCHEDULE_SERVER";
-    private final String SERVER_ADDRESS = "http://192.168.0.25:8080/SCHEDULE_SERVER";
+    private final String SERVER_ADDRESS = "http://192.168.0.7:8080/Schedule-Server";
 
     private ScheduleDB scheduleDB;                              // DB CREATE
     private SQLiteDatabase sqlDB;                               // DB SQL
 
     private int mId;                                            // 호출 아이템 ID
     private int sendpoint, updatepoint;                         // CRUD를 제어하기 위한 변수
-    private String strDay2;                                     // 날짜 문자열
+    private String strDay;                                      // 날짜 문자열
 
     private EditText editDate, editTitle, editTime, editMsg, editPw, editGroup;
     private Button btnSave, btnDelete, btnCancel, btnUpdate;
@@ -58,7 +58,7 @@ public class Crud extends Activity implements OnClickListener {
 
         Intent intent = getIntent();
         mId = intent.getIntExtra("ParamID", -1);                        // 일정 ID 값 반환
-        strDay2 = intent.getStringExtra("ParamDATE");                   // 일정 날짜 값 반환
+        strDay = intent.getStringExtra("ParamDATE");                   // 일정 날짜 값 반환
 
         scheduleDB = new ScheduleDB(this);  // DB 불러오기
 
@@ -68,7 +68,7 @@ public class Crud extends Activity implements OnClickListener {
             btnDelete.setVisibility(View.GONE);                         // 삭제버튼 비활성화
             btnUpdate.setVisibility(View.GONE);                         // 수정버튼 비활성화
 
-            editDate.setText(strDay2);                                  // 날짜 설정
+            editDate.setText(strDay);                                  // 날짜 설정
 
         } else {
 
@@ -140,7 +140,7 @@ public class Crud extends Activity implements OnClickListener {
                 if (sendpoint == 1)
                 {
                     String title1 = editTitle.getText().toString();
-                    String date1 = strDay2.toString();
+                    String date1 = strDay.toString();
                     String time1 = editTime.getText().toString();
                     String msg1 = editMsg.getText().toString();
                     String group1 = editGroup.getText().toString();

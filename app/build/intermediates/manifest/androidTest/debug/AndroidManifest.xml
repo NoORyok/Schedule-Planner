@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="Ex11_Calendar.org.test">
+    package="schedulePlanner.org.test">
 
     <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="9" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="Ex11_Calendar.org"
+                     android:targetPackage="schedulePlanner.org"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for Ex11_Calendar.org"/>
+                     android:label="Tests for schedulePlanner.org"/>
 </manifest>
